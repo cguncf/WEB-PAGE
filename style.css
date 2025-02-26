@@ -1,29 +1,3 @@
-@media (max-width: 768px) {
-  .title2 {
-    font-size: 35px;
-  }
-  .promo {
-    font-size: 20px;
-  }
-  .nav-item {
-    font-size: 16px;
-    margin: 0 10px;
-  }
-}
-
-@media (max-width: 480px) {
-  .title2 {
-    font-size: 28px;
-  }
-  .promo {
-    font-size: 18px;
-  }
-  .nav-item {
-    font-size: 14px;
-    display: block;
-    margin: 5px 0;
-  }
-}
 
 body {
   margin: 0;
